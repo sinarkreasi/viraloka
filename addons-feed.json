@@ -8,3 +8,13 @@
     "download_url": "https://github.com/sinarkreasi/viraloka/raw/refs/heads/main/sample-addon.zip"
   }
 ]
+[
+  {
+    "slug": "test-addon",
+    "name": "Test Addon",
+    "description": "Testing Addon integration with Vira Code Snippet.",
+    "version": "1.0.0",
+    "author": "Viraloka Team",
+    "download_url": "https://github.com/sinarkreasi/viraloka/raw/refs/heads/main/test-addon.zip"
+  }
+]
