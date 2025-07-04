@@ -7,4 +7,12 @@
     "author": "Viraloka Team",
     "download_url": "https://github.com/sinarkreasi/viraloka/raw/refs/heads/main/sample-addon.zip"
   }
+  {
+        "slug": "kalender-jawa",
+        "name": "Kalender Jawa",
+        "description": "Adds a Kalender Jawa (Javanese Calendar) widget and shortcode to your site.",
+        "version": "1.0.0",
+        "author": "Viraloka Team",
+        "download_url": "https://github.com/yourusername/vira-addons-marketplace/releases/download/v1.0.0/kalender-jawa.zip"
+      }
 ]
